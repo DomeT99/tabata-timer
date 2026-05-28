@@ -1,0 +1,6 @@
+{
+  "name": "Tabata Timer",
+  "description": "A sleek, dark-themed Tabata interval timer with customizable work, rest, sets, and cycle settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
